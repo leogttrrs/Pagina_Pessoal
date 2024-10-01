@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+header {
+    text-align: center;
+}
+
+.back-link {
+    text-decoration: underline;
+    color: inherit;
+}
+
+.back-link:visited {
+    color: inherit;
+}
+
